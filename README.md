@@ -1,1 +1,1 @@
-# OOADProject on aplication of OOP
+# OOADProject on application of OOP
