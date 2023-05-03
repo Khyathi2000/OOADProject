@@ -1,1 +1,2 @@
-# OOADProject on application of OOP
+# Inventory Management System
+
